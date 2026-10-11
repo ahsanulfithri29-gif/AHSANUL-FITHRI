@@ -1,0 +1,6 @@
+{
+  "name": "MathLock - Ulangan Harian Terkunci Kelas 9",
+  "description": "Aplikasi ujian terkunci matematika kelas 9 dengan deteksi tab/fokus, alarm anti-sontek, penguncian layar, blokir shortcut, enkripsi AES-256, dan dasbor pengawas real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
